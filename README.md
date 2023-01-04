@@ -1,7 +1,7 @@
 ### Bem vindo, Eu sou Caio Balduino !
 
-- 🌱 estou aprendendo !! (html,css, javascript)
-- 🐲 Quero me tornar um dev Fronted
+- 🌱 continuing grow
+- 🐲 dev Fronted
 <p></p>  
 <p></p>  
 <div align="center">
