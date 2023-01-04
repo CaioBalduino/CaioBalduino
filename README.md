@@ -1,6 +1,6 @@
 ### Bem vindo, Eu sou Caio Balduino !
 
-- 🌱 continuing grow
+- 🌱 Continuing growth
 - 🐲 dev Fronted
 <p></p>  
 <p></p>  
