@@ -1,8 +1,6 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Caiobaldur/2b1f600f2050941c0ed1860e08b2f786/raw/151c685fe80163acc6d938792699e8dd558d0729/card.svg">
 <h1 align="left"> Hello Friend !!</br> I'm Caio Balduino, nice to meet you !! </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Caiobaldur&color=blue" alt="Profile views" /> </p>
-
 - 🔥 Front End Developer
 
 - 🔭 Studying - superior in technology - Analysis and systems development
