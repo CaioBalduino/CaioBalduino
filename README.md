@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Caiobaldur&color=blue" alt="Profile views" /> </p>
 
-- 🔥 Web Developer, Front End, road to FullStack
+- 🔥 Front End Developer
 
 - 🔭 Studying - superior in technology - Analysis and systems development
 
-- ▶️ Follow me in Linkedin : https://www.linkedin.com/in/caio-balduino-3442721b4/
+- ▶️ Follow me in Linkedin : https://www.linkedin.com/in/caio-balduino/
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+- 💬 Ask me about **JavaScript, HTML, CSS, Node.JS**
 
 ## 🛠 &nbsp;Tech Stack
 
