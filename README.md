@@ -1,48 +1,54 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Caiobaldur/2b1f600f2050941c0ed1860e08b2f786/raw/151c685fe80163acc6d938792699e8dd558d0729/card.svg">
-<h1 align="left"> Hello Friend !!</br> I'm Caio Balduino, nice to meet you !! </h1>
+<h1 align="center">Hi👋🏻! My name is Caio Balduino</h1>
 
-- 🔥 Front End Developer
+###
 
-- 🔭 Studying - superior in technology - Analysis and systems development
+<h3 align="center">I'm a FrontEnd programmer, creative and passionate about Interface Design</h3>
 
-- ▶️ Follow me in Linkedin : https://www.linkedin.com/in/caio-balduino/
+###
 
-- 💬 Ask me about **JavaScript, HTML, CSS, Node.JS**
+<h1 align="center">🧑🏻‍💻 Technologies</h1>
 
-## 🛠 &nbsp;Tech Stack
+###
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-</br>
-
-## ⚙️ &nbsp;GitHub Analytics
-<div align="left">
-  <a href="https://github.com/Caiobaldur">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caiobaldur&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-    </br></br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiobaldur&layout=compact&langs_count=7&theme=merko"/>
-</div>
-  <p></p>
- <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-  </br>
-  
-## Contact
-
-<div>
-    <a href="https://www.linkedin.com/in/caio-balduino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Caiobaldur&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Caiobaldur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://cdn.discordapp.com/attachments/1126324055449022554/1137426411926327388/profile-pic_16.png"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/caio-balduino/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c9ab0115-39ab-47b2-8aad-6371ec7e6be2/d53evqr-10649a4b-f1bd-4ede-b1a6-2c2178dbdb80.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M5YWIwMTE1LTM5YWItNDdiMi04YWFkLTYzNzFlYzdlNmJlMlwvZDUzZXZxci0xMDY0OWE0Yi1mMWJkLTRlZGUtYjFhNi0yYzIxNzhkYmRiODAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wtyS17Z2ocqmJeUgj_fUXJ93nMvC-ZqWxcFB25LakdY"  />
+</div>
+
+###
