@@ -2,7 +2,11 @@
 
 ###
 
-<h3 align="center">I'm a FrontEnd programmer, creative and passionate about Interface Design</h3>
+<h3 align="left">👋 Hi, I’m Caio Balduino
+👀 I’m FrontEnd Developer
+🔍 Sometimes I venture into UI / UX Design
+🌱 I’m currently learning ReactJs
+📫 How to reach me www.linkedin.com/caio-balduino/ </h3>
 
 ###
 
