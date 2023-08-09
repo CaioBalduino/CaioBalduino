@@ -2,11 +2,12 @@
 
 ###
 
-<h3 align="left">👋 Hi, I’m Caio Balduino
-👀 I’m FrontEnd Developer
-🔍 Sometimes I venture into UI / UX Design
-🌱 I’m currently learning ReactJs
-📫 How to reach me www.linkedin.com/caio-balduino/ </h3>
+- 👀 I’m FrontEnd Developer!
+- 🔍 Sometimes I Explore UI / UX Design world!
+- 🌱 I’m currently learning ReactJs!
+- 📫 How to reach me www.linkedin.com/caio-balduino/ 
+<h6>I started studying web programming in May 2022 and since then I feel more and more motivated and committed to building my career in this area.</h6>
+
 
 ###
 
@@ -41,6 +42,7 @@
 
 <br clear="both">
 
+
 <div align="center">
   <a href="https://www.linkedin.com/in/caio-balduino/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -50,7 +52,7 @@
 ###
 
 <br clear="both">
-
+<h4 align="center">Dedication is the keyword that guides me on the journey of becoming an excellent programmer.</h4>
 <div align="center">
   <img height="200" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c9ab0115-39ab-47b2-8aad-6371ec7e6be2/d53evqr-10649a4b-f1bd-4ede-b1a6-2c2178dbdb80.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M5YWIwMTE1LTM5YWItNDdiMi04YWFkLTYzNzFlYzdlNmJlMlwvZDUzZXZxci0xMDY0OWE0Yi1mMWJkLTRlZGUtYjFhNi0yYzIxNzhkYmRiODAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wtyS17Z2ocqmJeUgj_fUXJ93nMvC-ZqWxcFB25LakdY"  />
 </div>
