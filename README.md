@@ -1,17 +1,17 @@
-<h1 align="center">Hi👋🏻! My name is Caio Balduino</h1>
+<h1 align="center">Olá👋🏻! Eu sou Caio Balduino!</h1>
 
 ###
 
-- 👀 I’m FrontEnd Developer!
-- 🔍 Sometimes I Explore UI / UX Design world!
-- 🌱 I’m currently learning ReactJs!
-- 📫 How to reach me www.linkedin.com/caio-balduino/ 
-<h6>I started studying web programming in May 2022 and since then I feel more and more motivated and committed to building my career in this area.</h6>
+- 👀 Sou Desenvolvedor FrontEnd
+- 🔍 As vezes eu exploro um pouco do mundo UI / UX Design.
+- 🌱 Estou atualmente aprendendo ReactJs!
+- 📫 onde me encontrar: www.linkedin.com/caio-balduino/ 
+<h6>Comecei a estudar programação web em maio de 2022 e desde então me sinto cada vez mais motivado e empenhado em construir minha carreira nesta área.</h6>
 
 
 ###
 
-<h1 align="center">🧑🏻‍💻 Technologies</h1>
+<h1 align="center">🧑🏻‍💻 Tecnologias</h1>
 
 ###
 
@@ -52,7 +52,7 @@
 ###
 
 <br clear="both">
-<h4 align="center">Dedication is the keyword that guides me on the journey of becoming an excellent programmer.</h4>
+<h4 align="center">Dedicação é a palavra-chave que me guia na jornada de me tornar um excelente programador.</h4>
 <div align="center">
   <img height="200" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c9ab0115-39ab-47b2-8aad-6371ec7e6be2/d53evqr-10649a4b-f1bd-4ede-b1a6-2c2178dbdb80.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M5YWIwMTE1LTM5YWItNDdiMi04YWFkLTYzNzFlYzdlNmJlMlwvZDUzZXZxci0xMDY0OWE0Yi1mMWJkLTRlZGUtYjFhNi0yYzIxNzhkYmRiODAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wtyS17Z2ocqmJeUgj_fUXJ93nMvC-ZqWxcFB25LakdY"  />
 </div>
