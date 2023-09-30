@@ -1,8 +1,8 @@
 <img src="https://cdn.discordapp.com/attachments/1070908868969910387/1157506253766008863/card_presentation.png?ex=6518db34&is=651789b4&hm=690290b400aff0e07d73dbecafc43840b82c7a02717009040d58e3dcdac5dd71&"/>
-<h2>👋 Olá, sou Caio Balduino</h2>
+<h2>👋 Olá, sou Caio Balduino Rafachino</h2>
 
+- 🌱 Atualmente aprendendo ReactJs.
 - 🔍 As vezes eu exploro um pouco do mundo UI / UX Design.
-- 🌱 Estou atualmente aprendendo ReactJs!
   
 <div align="left">
   <a href="https://www.linkedin.com/in/caio-balduino/" target="_blank">
