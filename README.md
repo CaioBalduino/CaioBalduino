@@ -1,49 +1,10 @@
-<h1 align="center">Olá👋🏻! Eu sou Caio Balduino!</h1>
+<img src="https://cdn.discordapp.com/attachments/1070908868969910387/1157506253766008863/card_presentation.png?ex=6518db34&is=651789b4&hm=690290b400aff0e07d73dbecafc43840b82c7a02717009040d58e3dcdac5dd71&"/>
+<h2>👋 Olá, sou Caio Balduino</h2>
 
-###
-
-- 👀 Sou Desenvolvedor FrontEnd
 - 🔍 As vezes eu exploro um pouco do mundo UI / UX Design.
 - 🌱 Estou atualmente aprendendo ReactJs!
-- 📫 onde me encontrar: www.linkedin.com/caio-balduino/ 
-<h6>Comecei a estudar programação web em maio de 2022 e desde então me sinto cada vez mais motivado e empenhado em construir minha carreira nesta área.</h6>
-
-
-###
-
-<h1 align="center">🧑🏻‍💻 Tecnologias</h1>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Caiobaldur&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Caiobaldur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://cdn.discordapp.com/attachments/1126324055449022554/1137426411926327388/profile-pic_16.png"  />
-</div>
-
-###
-
-<br clear="both">
-
-
-<div align="center">
+  
+<div align="left">
   <a href="https://www.linkedin.com/in/caio-balduino/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -51,4 +12,37 @@
 
 ###
 
+<h1 align="left">🧑🏻‍💻 Skills</h1>
+
 ###
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+###
+
+<details>
+  <summary>🏷️Holopins</summary>
+  
+  <a href="https://holopin.io/@caiobaldur#">
+    <img src="https://holopin.me/@caiobaldur#" alt="@caiobaldur#'s Holopin board" />
+  </a>
+</details>
+
+<details>
+  <summary>⚡Github Stats</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Caiobaldur&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caiobaldur&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  <p align="left">
+</p>
+</details>
+
