@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/1070908868969910387/1157506253766008863/card_presentation.png?ex=65fe4034&is=65ebcb34&hm=86f939621f311d88271c0ac8007e390d8bdd6442477ca6bc2c58d3d494da436e&"/>
+<img src="https://cdn.discordapp.com/attachments/1070908868969910387/1157506253766008863/card_presentation.png?ex=662c64b4&is=6619efb4&hm=7c9a613b036375f780e295beedd745f91d8ae5939523de1ac98a344518e31478&"/>
 <h2>👋 Olá, sou Caio Balduino Rafachino</h2>
 
 - 🌱 Atualmente aprendendo ReactJs.
