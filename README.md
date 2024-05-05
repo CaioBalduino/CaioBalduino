@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=Caiobaldur&icon=3&color=3)](https://visitcount.itsvg.in)
 
-<img src="https://cdn.discordapp.com/attachments/1070908868969910387/1157506253766008863/card_presentation.png?ex=662c64b4&is=6619efb4&hm=7c9a613b036375f780e295beedd745f91d8ae5939523de1ac98a344518e31478&"/>
+<img src="https://cdn.discordapp.com/attachments/1070908868969910387/1157506253766008863/card_presentation.png?ex=66384234&is=6636f0b4&hm=72eed80e0804feae5ad9ed1e983eb145d75dd74328352254a463729496f4e7d5&"/>
 <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Call Me Hand Medium-Light Skin Tone" width="25" height="25" /> Olá, sou Caio Balduino Rafachino</h1>
 
 |                                   |
